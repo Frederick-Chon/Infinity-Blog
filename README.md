@@ -4,7 +4,7 @@ Infinity blog is a simple project that display blog posts from [jsonplaceholder]
 
 ## Live Demo
 
-Live version hosted [here]()
+Live version hosted [here](https://frederick-chon.github.io/Infinity-Blog/)
 
 ## Built Using
 
